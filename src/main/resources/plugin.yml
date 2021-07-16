@@ -1,0 +1,6 @@
+name: PermissionsBan
+main: com.entiv.permissionsban.Main
+version: 1.0
+
+commands:
+  PermissionsBan:
